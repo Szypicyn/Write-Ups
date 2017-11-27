@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Current Technologies}{2}
+\contentsline {subsection}{\numberline {2.1}LC-Resonant Tank}{2}
+\contentsline {subsection}{\numberline {2.2}Frequency Selective Surfaces}{4}
+\contentsline {subsection}{\numberline {2.3}Other Resonant Structures}{5}
+\contentsline {subsection}{\numberline {2.4}Intermodulation Communication Principle}{6}
+\contentsline {subsection}{\numberline {2.5}Surface Acoustic Waves}{8}
+\contentsline {subsection}{\numberline {2.6}Relaxation Oscillator}{9}
+\contentsline {subsection}{\numberline {2.7}Metamaterial Structures}{10}
+\contentsline {section}{\numberline {3}Potential Technologies}{11}
+\contentsline {subsection}{\numberline {3.1}Sensing Based On Impedance Mismatch}{11}
+\contentsline {subsection}{\numberline {3.2}Sensitive Slow Wave Structures}{11}
+\contentsline {section}{\numberline {4}Conclusion}{11}
