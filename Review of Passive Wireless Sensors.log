@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  27 NOV 2017 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.25)  27 NOV 2017 17:03
 entering extended mode
 **"./Review of Passive Wireless Sensors.tex"
 ("Review of Passive Wireless Sensors.tex"
@@ -315,8 +315,11 @@ File: relax.JPG Graphic file (type jpg)
 <use relax.JPG>
 Package pdftex.def Info: relax.JPG used on input line 256.
 (pdftex.def)             Requested size: 234.87749pt x 86.22906pt.
- [9 <./SAWdelay.JPG> <./relax.JPG>]
-<srr.JPG, id=56, 318.43968pt x 319.1925pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./SAWdelay.JPG>] <srr.JPG, id=56, 318.43968pt x 319.1925pt>
 File: srr.JPG Graphic file (type jpg)
  <use srr.JPG>
 Package pdftex.def Info: srr.JPG used on input line 274.
@@ -327,8 +330,8 @@ File: nested.JPG Graphic file (type jpg)
  <use nested.JPG>
 Package pdftex.def Info: nested.JPG used on input line 279.
 (pdftex.def)             Requested size: 176.15811pt x 178.30804pt.
- [10 <./srr.JPG> <./nested.JPG>] [11] ("Review of Passive Wireless Sensors.bbl"
-
+ [10 <./relax.JPG> <./srr.JPG> <./nested.JPG>] [11] ("Review of Passive Wireles
+s Sensors.bbl"
 Underfull \hbox (badness 4699) in paragraph at lines 11--15
 []\OT1/cmr/m/n/10.95 Mario Car-dullo.  Gen-e-sis of the ver-sa-tile rfid tag.  
 \OT1/cmr/m/it/10.95 RFID Jour-nal\OT1/cmr/m/n/10.95 , 4 2003.
@@ -338,7 +341,7 @@ Underfull \hbox (badness 4699) in paragraph at lines 11--15
 Here is how much of TeX's memory you used:
  3311 strings out of 493323
  51606 string characters out of 3139065
- 121104 words of memory out of 3000000
+ 121105 words of memory out of 3000000
  6818 multiletter control sequences out of 15000+200000
  9157 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -357,7 +360,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on "Review of Passive Wireless Sensors.pdf" (15 pages, 970934 by
+Output written on "Review of Passive Wireless Sensors.pdf" (15 pages, 971138 by
 tes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
